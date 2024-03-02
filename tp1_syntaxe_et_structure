@@ -1,0 +1,23 @@
+\\ ajout des bibliotheque
+
+#Include <stdio.h>
+#include <stlib.h>
+
+\\ ajout de la fonction main obligatoire
+
+int main ()
+
+\\ ouverture de la fonction
+
+{
+
+/* printf commande pour afficher du texte
+"" permet d'afficher le texte
+\n = retour a la ligne
+\t tabulation, les espaces
+*\
+
+printf("TP 1\n \"syntaxes et structure\" \t Hello World" \n);
+
+return (0);
+}
